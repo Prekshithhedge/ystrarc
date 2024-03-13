@@ -1,0 +1,118 @@
+{
+    "services": [
+      {
+        "title": "Project1",
+        "description": "mainthings wdjfb jnwejfcik",
+        "description1":"aaidwbhc iueeshcduahescuei",
+        "description2":"dkqesbdcjabecsuj jenidcnei",
+        "description3":"qq  aed qeqsedqesdqdq",
+        "description4":"arthiqqcleiwdjhbwdc qwqwd",
+        "description5":"arthicleiwdjhbwdc jenidcnei",
+
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      },
+      {
+        "title": "Project2",
+        "description": "dummy description 2",
+        "description1": "dummy description 2",
+        "description2": "dummy description 2",
+        "description3": "dummy description 2",
+        "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
+        "description5": "dummy description 2",
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      },
+      {
+        "title": "Project3",
+        "description": "dummy description 3",
+        "description1": "dummy description 3",
+        "description2": "dummy description 3",
+        "description3": "dummy description 3",
+        "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
+        "description5": "dummy description 3",
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      },
+      {
+        "title": "Project4",
+        "description": "dummy description 4",
+        "description1": "dummy description 4",
+        "description2": "dummy description 4",
+        "description3": "dummy description 4",
+        "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
+        "description5": "dummy description 4",
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      },
+      {
+        "title": "Project5",
+        "description": "dummy description 5",
+        "description1": "dummy description 5",
+        "description2": "dummy description 5",
+        "description3": "dummy description 5",
+        "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
+        "description5": "dummy description 5",
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      },
+      {
+        "title": "Project6",
+        "description": "dummy description 6",
+        "description1": "dummy description 6",
+        "description2": "dummy description 6",
+        "description3": "dummy description 6",
+        "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
+        "description5": "dummy description 6",
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      },
+      {
+        "title": "Project7",
+        "description": "dummy description 7",
+        "description1": "dummy description 7",
+        "description2": "dummy description 7",
+        "description3": "dummy description 7",
+        "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
+        "description5": "dummy description 7",
+        "images": [
+          "/images/banner1.jpg",
+          "/images/interior-2.jpg",
+          "/images/banner2.jpg",
+          "/images/banner3.jpg",
+          "/images/banner4.jpg"
+        ]
+      }
+    ]
+  }
+  
