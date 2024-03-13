@@ -7,7 +7,7 @@
   font-size: large;
   font-weight: 600;
   background-attachment: fixed ;
-    background-image: url('/images/service-back.jpg');
+    background-image: url('../images/service-back.jpg');
     background-repeat: no-repeat;
     background-size: cover;
   }/*
