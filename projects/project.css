@@ -7,7 +7,7 @@
   font-size: large;
   font-weight: 600;
   background-attachment: fixed ;
-    background-image: url('/images/project-back.png');
+    background-image: url('../images/project-back.png');
     background-repeat: no-repeat;
     background-size: cover;
   }/*
