@@ -190,7 +190,7 @@
       const params = new URLSearchParams(window.location.search);
       const serviceName = params.get('service');
 
-      fetch('./json/project.json')
+      fetch('../json/project.json')
         .then(response => response.json())
         .then(data => {
           const service = data.services.find(service => service.title === serviceName);
