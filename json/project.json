@@ -10,11 +10,11 @@
         "description5":"arthicleiwdjhbwdc jenidcnei",
 
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       },
       {
@@ -26,11 +26,11 @@
         "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
         "description5": "dummy description 2",
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       },
       {
@@ -42,11 +42,11 @@
         "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
         "description5": "dummy description 3",
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       },
       {
@@ -58,11 +58,11 @@
         "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
         "description5": "dummy description 4",
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       },
       {
@@ -74,11 +74,11 @@
         "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
         "description5": "dummy description 5",
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       },
       {
@@ -90,11 +90,11 @@
         "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
         "description5": "dummy description 6",
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       },
       {
@@ -106,11 +106,11 @@
         "description4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet dui vitae quam pulvinar varius nec eu dolor.",
         "description5": "dummy description 7",
         "images": [
-          "./images/banner1.jpg",
-          "./images/interior-2.jpg",
-          "./images/banner2.jpg",
-          "./images/banner3.jpg",
-          "./images/banner4.jpg"
+          "../images/banner1.jpg",
+          "../images/interior-2.jpg",
+          "../images/banner2.jpg",
+          "../images/banner3.jpg",
+          "../images/banner4.jpg"
         ]
       }
     ]
