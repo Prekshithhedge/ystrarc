@@ -3762,7 +3762,7 @@ header {
     display: none;
 }
 .facts-counter {
-    background: url('../images/numbers.jpg') center right no-repeat;
+    background: url('/images/numbers.jpg') center right no-repeat;
     background-size: cover;
     width: 91.7%;
     background-position: center center;
