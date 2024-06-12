@@ -4254,7 +4254,12 @@ margin-left: 5%;
   position: relative;
   margin: 4% 0%;
 }
-
+.c1{
+  width:50%;
+}
+.c2{
+  width: 50%;
+}
 .c1 img {
   width: 100%; /* Adjusted for responsiveness */
   max-width: 900px; /* Limiting maximum width */
@@ -4263,7 +4268,7 @@ margin-left: 5%;
 }
 
 .c2 {
-  margin-left: 13%;
+  margin-left: 5%;
   margin-top: 2%;
 }
 
@@ -4327,10 +4332,12 @@ margin-left: 5%;
     font-size: 16px;
   }
   .c1 {
+    width: 100%;
     margin-bottom: 20px; /* Adding some space between c1 and c2 */
   }
 
   .c2 {
+    width: 100%;
     margin-left: 0; /* Reset left margin for c2 */
   }
 
